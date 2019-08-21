@@ -1,0 +1,34 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+# model
+
+[![status](https://tinyverse.netlify.com/badge/stringdist)](https://CRAN.R-project.org/package=stringdist)
+[![Downloads](http://cranlogs.r-pkg.org/badges/stringdist)](http://cran.r-project.org/package=stringdist/)[![Research software impact](http://depsy.org/api/package/cran/stringdist/badge.svg)](http://depsy.org/package/r/stringdist)[![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](http://www.awesomeofficialstatistics.org)
+
+# hi
+
+
+[![status](https://tinyverse.netlify.com/badge/tidycells)](https://CRAN.R-project.org/package=tidycells)
+[![CRAN_Status_Badge_version_ago](https://www.r-pkg.org/badges/version-ago/tidycells)](https://cran.r-project.org/package=tidycells)
+
+[![Downloads](http://cranlogs.r-pkg.org/badges/tidycells)](http://cran.r-project.org/package=tidycells/)
+
+[![CRAN_latest_release_date](https://www.r-pkg.org/badges/last-release/tidycells)](https://cran.r-project.org/package=tidycells)
+
+[![CRAN_Status_Badge_version_ago](https://www.r-pkg.org/badges/version-ago/tidycells)](https://cran.r-project.org/package=tidycells)
+
+[![CRAN_Status_Badge_version_last_release](https://www.r-pkg.org/badges/version-last-release/tidycells)](https://cran.r-project.org/package=tidycells)
+
+[![metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/tidycells)](https://cran.r-project.org/package=tidycells)
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+[![Rdoc](https://www.rdocumentation.org/badges/version/tidycells)](https://www.rdocumentation.org/packages/tidycells)
+
+[![rpackages.io rank](https://www.rpackages.io/badge/tidycells.svg)](https://www.rpackages.io/package/tidycells)
+
+[![CRAN_time_from_release](https://www.r-pkg.org/badges/ago/tidycells)](https://cran.r-project.org/package=tidycells)
